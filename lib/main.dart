@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
 
 
-      title: 'Flutter Demo',
+      title: 'WinLots Construction',
       theme: ThemeData(
 
 
